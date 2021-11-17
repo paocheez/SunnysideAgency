@@ -97,6 +97,8 @@ header{
     display: flex;
     flex-direction: row;
     background-color: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
 }
 
 .item-left{
