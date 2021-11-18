@@ -216,3 +216,33 @@ body{
 .collage-pic{
     width: 25vw;
 }
+
+footer{
+    color: hsl(168, 34%, 41%);
+    background-color: rgba(144,212,197,255);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+#footer-logo{
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 25px;
+}
+
+#footer-section{
+    margin-bottom: 50px;
+}
+
+.footer-title{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer-img{
+    margin-left: 15px;
+}
